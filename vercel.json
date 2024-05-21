@@ -1,0 +1,17 @@
+{
+  "redirects": [],
+  "rewrites": [
+    {
+      "source": "/8MyxPs7JJ/(.*)",
+      "destination": "https://userinterfaces.webflow.io/$1"
+    },
+    {
+      "source": "/8MyxPs7JJ",
+      "destination": "https://stats.uptimerobot.com"
+    },
+    {
+      "source": "/",
+      "destination": "https://main-domain-1.dorik.io"
+    }
+  ]
+}
